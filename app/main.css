@@ -11,6 +11,10 @@ color: blue;
   cursor: alias;
 }
 
+.red {
+  color: red;
+  
+}
 body {
 
   background: black;
